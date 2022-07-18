@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CLvzW2nFmETHKbiet8Kq1nZnv22Q70eMnZGA7FMsUjPRJ2zSz4aqgM6/3jOvyhKhtDffR5YFAyr06gTJQkBQDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Program Files\\Jenkins\\helloworld\\helloworld\\helloworld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
